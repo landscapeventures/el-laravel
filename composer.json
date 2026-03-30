@@ -1,5 +1,5 @@
 {
-  "name": "pdphilip/elasticsearch",
+  "name": "landscapeventures/el-laravel",
   "description": "An Elasticsearch implementation of Laravel's Eloquent ORM",
   "keywords": [
     "laravel",
